@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "这是一个person框架.非常的厉害"
 
-  spec.homepage     = "https://github.com/lijiace/test.git"
+  spec.homepage     = "https://github.com/lijiace/person.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/lijiace/Gitwork.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/lijiace/person.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
